@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "418113969978",
+      "firebase_url": "https://kns-it-staging.firebaseio.com",
+      "project_id": "kns-it-staging",
+      "storage_bucket": "kns-it-staging.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:418113969978:android:e68e58498bee731a09ba03",
+          "android_client_info": {
+            "package_name": "com.knstrans.shipping_driver_android"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "418113969978-i1r0qa7uj2niri2318pksi2e2d0d5s4h.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC7v8pZhOtaLI3tc9i0Bxd1M5q_8PJOXiM"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "418113969978-i1r0qa7uj2niri2318pksi2e2d0d5s4h.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
